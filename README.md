@@ -12,9 +12,9 @@ Installation:
 
 1. Clone this repository:
 
-git clone https://github.com/slovjinika/tmux-cyrillic-clock.git
+`git clone https://github.com/slovjinika/tmux-cyrillic-clock.git`
 
-2. Place the dec2cyrs.py script in a location accessible to your tmux configuration. For example, you can move it to /data/data/com.termux/files/home/storage/shared/Github/dec2cyrs/ on Termux.
+2. Place the `dec2cyrs.py` script in a location accessible to your tmux configuration. For example, you can move it to /data/data/com.termux/files/home/storage/shared/Github/dec2cyrs/ on Termux.
 
 3. Add the following lines to your tmux.conf file:
 
@@ -25,6 +25,7 @@ Usage:
 1. Restart your tmux server:
 
 `tmux kill-server`
+
 `tmux`
 
 2. The Cyrillic time should now be displayed on the right side of your tmux status bar.
