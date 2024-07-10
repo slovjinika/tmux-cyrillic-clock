@@ -5,7 +5,7 @@ This script displays the current time in Cyrillic numerals within your tmux stat
 
 Requirements:
 
-* Python 3 / Bash
+* Python 3 or Bash
 * [dec2cyrs](https://github.com/slovjinika/dec2cyrs)
 
 Installation:
